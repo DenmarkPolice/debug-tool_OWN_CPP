@@ -1,0 +1,15 @@
+# Compiled objects
+*.o
+*.exe
+*.out
+
+# Generated files
+*.txt
+*.cmake
+Makefile
+build/*
+
+# Project folders
+**/.idea
+**/CMakeFiles
+**/.vscode
